@@ -30,12 +30,14 @@ This console application is a web scraper developed in C# using Visual Studio. I
 
 1. Launch the application.
 2. Choose an option from the menu:
+   
   2.1 YouTube: Search and scrape videos from YouTube.
   2.2 ICTJob: Search and scrape IT job listings from ICTJob.
   2.3 Bol.com: Search and scrape products from Bol.com.
   2.4 Show Wishlist: Display the products added to the wishlist.
   2.5 Stop: Exit the application.
-3. Follow the prompts to enter search terms and interact with the scraped data.
+
+4. Follow the prompts to enter search terms and interact with the scraped data.
 
 ### Acknowledgments
 
