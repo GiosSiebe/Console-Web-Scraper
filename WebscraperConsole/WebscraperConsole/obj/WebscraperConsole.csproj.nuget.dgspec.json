@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Webscraper\\WebscraperConsole\\WebscraperConsole\\WebscraperConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Webscraper\\WebscraperConsole\\WebscraperConsole\\WebscraperConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Webscraper\\WebscraperConsole\\WebscraperConsole\\WebscraperConsole.csproj",
+        "projectName": "WebscraperConsole",
+        "projectPath": "C:\\Webscraper\\WebscraperConsole\\WebscraperConsole\\WebscraperConsole.csproj",
+        "packagesPath": "C:\\Users\\r0929434\\.nuget\\packages\\",
+        "outputPath": "C:\\Webscraper\\WebscraperConsole\\WebscraperConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\r0929434\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[30.0.1, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.15.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[119.0.6045.10500, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

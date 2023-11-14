@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pGH7srRyjxZedZC4HbwbeFOxoB+O/dNTbNoYQkEYVKhU3z0GmqqCWaozmOfmPDjz8gYqJoYwOkPUailRfmyhyg==",
+  "success": true,
+  "projectFilePath": "C:\\Webscraper\\WebscraperConsole\\WebscraperConsole\\WebscraperConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\r0929434\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\r0929434\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\r0929434\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\r0929434\\.nuget\\packages\\selenium.webdriver\\4.15.0\\selenium.webdriver.4.15.0.nupkg.sha512",
+    "C:\\Users\\r0929434\\.nuget\\packages\\selenium.webdriver.chromedriver\\119.0.6045.10500\\selenium.webdriver.chromedriver.119.0.6045.10500.nupkg.sha512",
+    "C:\\Users\\r0929434\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
