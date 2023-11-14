@@ -22,7 +22,7 @@ This console application is a web scraper developed in C# using Visual Studio. I
 ### Installation
 
 1. Clone the repository to your local machine.
-2. Open the solution file (WebScraper.sln) in Visual Studio.
+2. Open the solution file (WebScraperConsole.sln) in Visual Studio.
 3. Build the solution.
 4. Run the application.
 
